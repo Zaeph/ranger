@@ -90,10 +90,10 @@ More options for file previews (with `scope.sh`):
 * `convert` (from `imagemagick`) to auto-rotate images and for SVG previews
 * `ffmpegthumbnailer` for video thumbnails
 * `highlight` or `pygmentize` for syntax highlighting of code
-* `atool`, `bsdtar`, `unrar` and/or `7z` for previews of archives
+* `atool`, `bsdtar`, `unrar` and/or `7z` to preview archives
 * `bsdtar`, `tar`, `unrar` and/or `unzip` to preview archives as their first
   image
-* `lynx`, `w3m` or `elinks` for previews of html pages
+* `lynx`, `w3m` or `elinks` to preview of html pages
 * `pdftotext` or `mutool` for textual `pdf` previews, `pdftoppm` to preview as
   image
 * `djvutxt` for textual DjVu previews, `ddjvu` to preview as image
