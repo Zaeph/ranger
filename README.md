@@ -75,7 +75,7 @@ Dependencies
 
 Optional:
 
-* The `file` program for determining file types
+* `file` for determining file types
 * `chardet` (Python package) for improved encoding detection of text files
 * `sudo` to use the "run as root" feature
 * `python-bidi` for correct display of RTL file names (Hebrew, Arabic)
