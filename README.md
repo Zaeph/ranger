@@ -73,14 +73,16 @@ Dependencies
   and (optionally) wide-unicode support
 * A pager (`less` by default)
 
-Optional:
+### Optional
+
+General:
 
 * `file` for determining file types
 * `chardet` (Python package) for improved encoding detection of text files
 * `sudo` to use the "run as root" feature
 * `python-bidi` for display right-to-left file names correctly (Hebrew, Arabic)
 
-Optional, for enhanced file previews (with `scope.sh`):
+More options for file previews (with `scope.sh`):
 
 * `img2txt` (from `caca-utils`) for ASCII-art image previews
 * `w3mimgdisplay`, `ueberzug`, `kitty`, `terminology` or `urxvt` for image
