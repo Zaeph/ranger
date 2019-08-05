@@ -75,7 +75,7 @@ Dependencies
 
 ### Optional dependencies
 
-General:
+For general usage:
 
 * `file` for determining file types
 * `chardet` (Python package) for improved encoding detection of text files
