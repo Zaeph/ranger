@@ -80,7 +80,7 @@ For general usage:
 * `file` for determining file types
 * `chardet` (Python package) for improved encoding detection of text files
 * `sudo` to use the "run as root" feature
-* `python-bidi` for display right-to-left file names correctly (Hebrew, Arabic)
+* `python-bidi` to display right-to-left file names correctly (Hebrew, Arabic)
 
 More options for enhanced file previews (with `scope.sh`):
 
