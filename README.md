@@ -78,7 +78,7 @@ Optional:
 * `file` for determining file types
 * `chardet` (Python package) for improved encoding detection of text files
 * `sudo` to use the "run as root" feature
-* `python-bidi` for correct display of RTL file names (Hebrew, Arabic)
+* `python-bidi` for display right-to-left file names correctly (Hebrew, Arabic)
 
 Optional, for enhanced file previews (with `scope.sh`):
 
