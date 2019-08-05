@@ -73,7 +73,7 @@ Dependencies
   and (optionally) wide-unicode support
 * A pager (`less` by default)
 
-### Optional
+### Optional dependencies
 
 General:
 
