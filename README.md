@@ -93,7 +93,7 @@ More options for file previews (with `scope.sh`):
 * `atool`, `bsdtar`, `unrar` and/or `7z` to preview archives
 * `bsdtar`, `tar`, `unrar` and/or `unzip` to preview archives as their first
   image
-* `lynx`, `w3m` or `elinks` to preview of html pages
+* `lynx`, `w3m` or `elinks` to preview html pages
 * `pdftotext` or `mutool` for textual `pdf` previews, `pdftoppm` to preview as
   image
 * `djvutxt` for textual DjVu previews, `ddjvu` to preview as image
